@@ -1,0 +1,2 @@
+# Analise-Exploratoria-de-Dados-ENEM-2019
+Informações de microdados no ENEM realizado em 2019. Objetivo de avaliar o desempenho escolar dos estudantes ao término da educação básica. Para o presente estudo vamos avaliar se dados demográficos, indicadores sociais, de escolaridade dos pais e outras indicações tem correlações com as notas dos candidatos. Projeto realizado na formação Cientista de Dados Let's Data.
